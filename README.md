@@ -79,9 +79,9 @@ Full-stack developer focused on building modern, secure, and scalable web applic
 
 <div align="center">
   
-  [🌐 Portfolio](https://hanzfernando-dev.onrender.com) • 
+  [🌐 Portfolio](https://hanzfernando.com) • 
   [📧 Email](mailto:fernandohanz23@gmail.com) • 
-  [💼 LinkedIn](https://linkedin.com/in/hanzfernando) • 
+  [💼 LinkedIn](https://linkedin.com/in/hanz-fernando) • 
   [🐙 GitHub](https://github.com/hanzfernando)
 
 </div>
