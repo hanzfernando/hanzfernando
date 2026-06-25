@@ -1,8 +1,6 @@
 # Hanz Gabriel Fernando
 
-Full Stack Develop | Software Engineer
-
-Full-stack developer focused on building modern, secure, and scalable web applications.
+Full Stack Developer | Software Engineer
 
 </br>
 
