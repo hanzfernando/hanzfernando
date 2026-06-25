@@ -2,8 +2,6 @@
 
 Full Stack Developer | Software Engineer
 
-</br>
-
 ## Stack
   
 |  |  |
